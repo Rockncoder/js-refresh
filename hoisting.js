@@ -7,7 +7,7 @@
   var addLastName = function () {
     var lastName = 'Franks';
     var fullName = firstName + ' ' + lastName;
-    var firstName = "Faust";
+     firstName = "Faust";
     console.log("Name = " + fullName);
   };
 
